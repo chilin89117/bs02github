@@ -1,3 +1,3 @@
 # bs02github
 
-Manually edited.
+Manually edited. This file was modified LOCALLY!
